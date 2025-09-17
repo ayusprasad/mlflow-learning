@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/b89e1b186b1f4fd18483a9aabba2d620/artifacts
+end_time: 1758120700532
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: b89e1b186b1f4fd18483a9aabba2d620
+run_name: efficient-lamb-951
+run_uuid: b89e1b186b1f4fd18483a9aabba2d620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120700482
+status: 3
+tags: []
+user_id: ayush

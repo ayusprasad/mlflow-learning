@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/306fd16cc761434ba2416905b1a8ac81/artifacts
+end_time: 1758120700882
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 306fd16cc761434ba2416905b1a8ac81
+run_name: stylish-squid-156
+run_uuid: 306fd16cc761434ba2416905b1a8ac81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120700820
+status: 3
+tags: []
+user_id: ayush

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/f441cdb5bc694b5da77f5fc71a4b18fc/artifacts
+end_time: 1758120700184
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: f441cdb5bc694b5da77f5fc71a4b18fc
+run_name: unequaled-perch-731
+run_uuid: f441cdb5bc694b5da77f5fc71a4b18fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120700138
+status: 3
+tags: []
+user_id: ayush

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/033fac5eec5c4aca90721586f8eb4e71/artifacts
+end_time: 1758120700721
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 033fac5eec5c4aca90721586f8eb4e71
+run_name: upset-ape-463
+run_uuid: 033fac5eec5c4aca90721586f8eb4e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120700668
+status: 3
+tags: []
+user_id: ayush

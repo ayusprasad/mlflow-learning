@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/f47c4190fbef42099c3452210fca981d/artifacts
+end_time: 1758120700310
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: f47c4190fbef42099c3452210fca981d
+run_name: kindly-stag-66
+run_uuid: f47c4190fbef42099c3452210fca981d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120700256
+status: 3
+tags: []
+user_id: ayush
