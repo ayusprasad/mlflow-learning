@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/974a2ccc7b1c4165abd56a3bcddd2e61/artifacts
+end_time: 1758109322835
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: 974a2ccc7b1c4165abd56a3bcddd2e61
+run_name: kindly-mouse-490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758109315389
+status: 3
+tags: []
+user_id: ayush

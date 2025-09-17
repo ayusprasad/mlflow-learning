@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/13843a9f6f1b4664872449b412efaeb0/artifacts
+end_time: 1758108116287
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: 13843a9f6f1b4664872449b412efaeb0
+run_name: treasured-slug-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758108111282
+status: 3
+tags: []
+user_id: ayush

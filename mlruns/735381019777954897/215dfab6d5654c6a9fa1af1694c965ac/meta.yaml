@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/215dfab6d5654c6a9fa1af1694c965ac/artifacts
+end_time: 1758108102567
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: 215dfab6d5654c6a9fa1af1694c965ac
+run_name: popular-pug-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758108096851
+status: 3
+tags: []
+user_id: ayush

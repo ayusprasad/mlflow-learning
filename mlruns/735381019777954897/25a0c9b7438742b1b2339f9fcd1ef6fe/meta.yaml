@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/25a0c9b7438742b1b2339f9fcd1ef6fe/artifacts
+end_time: 1758107472807
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: 25a0c9b7438742b1b2339f9fcd1ef6fe
+run_name: lyrical-midge-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758107468006
+status: 3
+tags: []
+user_id: ayush

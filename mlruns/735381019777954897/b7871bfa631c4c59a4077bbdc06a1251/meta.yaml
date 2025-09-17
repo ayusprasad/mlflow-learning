@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/b7871bfa631c4c59a4077bbdc06a1251/artifacts
+end_time: 1758107994477
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: b7871bfa631c4c59a4077bbdc06a1251
+run_name: blushing-gull-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758107989526
+status: 3
+tags: []
+user_id: ayush
