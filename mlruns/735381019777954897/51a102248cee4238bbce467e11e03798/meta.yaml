@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/51a102248cee4238bbce467e11e03798/artifacts
+end_time: 1758115142256
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: 51a102248cee4238bbce467e11e03798
+run_name: luxuriant-calf-116
+run_uuid: 51a102248cee4238bbce467e11e03798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758115141466
+status: 4
+tags: []
+user_id: ayush

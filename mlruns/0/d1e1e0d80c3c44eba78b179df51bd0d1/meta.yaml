@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1e1e0d80c3c44eba78b179df51bd0d1/artifacts
+end_time: 1758115090730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1e1e0d80c3c44eba78b179df51bd0d1
+run_name: persistent-yak-691
+run_uuid: d1e1e0d80c3c44eba78b179df51bd0d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758115090691
+status: 3
+tags: []
+user_id: ayush

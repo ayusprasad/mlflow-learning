@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/eb5c47f7944d4c9382b59a7fb7de89a9/artifacts
+end_time: 1758115076122
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: eb5c47f7944d4c9382b59a7fb7de89a9
+run_name: gentle-rook-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758115075319
+status: 4
+tags: []
+user_id: ayush

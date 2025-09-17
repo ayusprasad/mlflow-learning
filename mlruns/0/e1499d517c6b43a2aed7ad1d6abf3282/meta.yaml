@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e1499d517c6b43a2aed7ad1d6abf3282/artifacts
+end_time: 1758115075285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1499d517c6b43a2aed7ad1d6abf3282
+run_name: brawny-elk-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758115075224
+status: 3
+tags: []
+user_id: ayush
