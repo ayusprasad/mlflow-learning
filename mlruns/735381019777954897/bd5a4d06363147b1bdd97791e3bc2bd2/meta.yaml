@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/735381019777954897/bd5a4d06363147b1bdd97791e3bc2bd2/artifacts
+end_time: 1758112774365
+entry_point_name: ''
+experiment_id: '735381019777954897'
+lifecycle_stage: active
+run_id: bd5a4d06363147b1bdd97791e3bc2bd2
+run_name: incongruous-doe-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758112766873
+status: 3
+tags: []
+user_id: ayush
