@@ -5,8 +5,14 @@ from sklearn.datasets import load_breast_cancer
 import pandas as pd
 import mlflow
 import dagshub
+from mlflow import MlflowClient
+
+# Initialize DagsHub
 dagshub.init(repo_owner='ayusprasad', repo_name='mlflow-learning', mlflow=True)
 mlflow.set_tracking_uri("https://dagshub.com/ayusprasad/mlflow-learning.mlflow")
+
+# Initialize MLflow client
+client = MlflowClient()
 
 # Load the Breast Cancer dataset
 data = load_breast_cancer()
@@ -22,32 +28,19 @@ rf = RandomForestClassifier(random_state=42)
 # Defining the parameter grid for GridSearchCV
 param_grid = {
     'n_estimators': [10, 50, 100],
-    'max_depth': [None, 10, 20, 30,55]
+    'max_depth': [None, 10, 20, 30, 55]
 }
 
 # Applying GridSearchCV
 grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1, verbose=2)
-
-# # Run without MLflow from here
-# grid_search.fit(X_train, y_train)
-
-# # # Displaying the best params and best score
-# best_params = grid_search.best_params_
-# best_score = grid_search.best_score_
-
-# print(best_params)
-# print(best_score)
-# # Till here
-
 
 mlflow.set_experiment('breast-cancer-rf-hp')
 
 with mlflow.start_run() as parent:
     grid_search.fit(X_train, y_train)
 
-    # log all the child runs
+    # Log all the child runs
     for i in range(len(grid_search.cv_results_['params'])):
-
         with mlflow.start_run(nested=True) as child:
             mlflow.log_params(grid_search.cv_results_["params"][i])
             mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
@@ -65,14 +58,12 @@ with mlflow.start_run() as parent:
     # Log training data
     train_df = X_train.copy()
     train_df['target'] = y_train
-
     train_df = mlflow.data.from_pandas(train_df)
     mlflow.log_input(train_df, "training")
 
     # Log test data
     test_df = X_test.copy()
     test_df['target'] = y_test
-
     test_df = mlflow.data.from_pandas(test_df)
     mlflow.log_input(test_df, "testing")
 
@@ -87,3 +78,22 @@ with mlflow.start_run() as parent:
 
     print(best_params)
     print(best_score)
+    
+    # Register the model
+    model_uri = f"runs:/{parent.info.run_id}/random_forest"
+    registered_model = mlflow.register_model(model_uri, "BreastCancerRFModel")
+    
+    print(f"Registered model '{registered_model.name}' version {registered_model.version}")
+
+# Set up model aliases for different stages
+try:
+    # Set champion alias (equivalent to production)
+    client.set_registered_model_alias("BreastCancerRFModel", "champion", registered_model.version)
+    print(f"Set 'champion' alias to version {registered_model.version}")
+    
+    # You can also set other aliases for different environments
+    # client.set_registered_model_alias("BreastCancerRFModel", "staging", registered_model.version)
+    # client.set_registered_model_alias("BreastCancerRFModel", "archived", registered_model.version)
+    
+except Exception as e:
+    print(f"Error setting model alias: {e}")
