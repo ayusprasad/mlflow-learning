@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/735381019777954897/a7b12abd484f4da2980cf285c0ec8ffa/artifacts
+deleted_time: 1758163738536
 end_time: 1758115091092
 entry_point_name: ''
 experiment_id: '735381019777954897'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a7b12abd484f4da2980cf285c0ec8ffa
 run_name: stylish-pig-392
 run_uuid: a7b12abd484f4da2980cf285c0ec8ffa

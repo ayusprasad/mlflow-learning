@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/735381019777954897/51a102248cee4238bbce467e11e03798/artifacts
+deleted_time: 1758163738538
 end_time: 1758115142256
 entry_point_name: ''
 experiment_id: '735381019777954897'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 51a102248cee4238bbce467e11e03798
 run_name: luxuriant-calf-116
 run_uuid: 51a102248cee4238bbce467e11e03798
