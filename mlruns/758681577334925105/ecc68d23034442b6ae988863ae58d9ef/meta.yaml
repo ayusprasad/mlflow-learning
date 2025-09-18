@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/ecc68d23034442b6ae988863ae58d9ef/artifacts
+end_time: 1758121171506
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: ecc68d23034442b6ae988863ae58d9ef
+run_name: defiant-shrike-486
+run_uuid: ecc68d23034442b6ae988863ae58d9ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758121171453
+status: 3
+tags: []
+user_id: ayush

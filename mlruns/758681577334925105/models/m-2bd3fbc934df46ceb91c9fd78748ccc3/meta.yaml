@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/models/m-2bd3fbc934df46ceb91c9fd78748ccc3/artifacts
+creation_timestamp: 1758161901072
+experiment_id: '758681577334925105'
+last_updated_timestamp: 1758161927833
+model_id: m-2bd3fbc934df46ceb91c9fd78748ccc3
+model_type: null
+name: random_forest
+source_run_id: 640b3c66028f47c1a117beec8f6a0af7
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/c1357a2c45c74ffd9b6118f74c707726/artifacts
+end_time: 1758161898410
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: c1357a2c45c74ffd9b6118f74c707726
+run_name: persistent-shark-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161898115
+status: 3
+tags: []
+user_id: ayush

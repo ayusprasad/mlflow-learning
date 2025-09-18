@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/706c99d9405d48208d36cbc24677c831/artifacts
+end_time: 1758120926931
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 706c99d9405d48208d36cbc24677c831
+run_name: delightful-perch-106
+run_uuid: 706c99d9405d48208d36cbc24677c831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120907861
+status: 3
+tags: []
+user_id: ayush

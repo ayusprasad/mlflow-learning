@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/4d172a15ca874ff68d291f9e90e68a8a/artifacts
+end_time: 1758161898635
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 4d172a15ca874ff68d291f9e90e68a8a
+run_name: sedate-finch-559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161898445
+status: 3
+tags: []
+user_id: ayush

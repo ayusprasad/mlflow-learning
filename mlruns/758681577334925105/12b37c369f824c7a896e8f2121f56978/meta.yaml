@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/12b37c369f824c7a896e8f2121f56978/artifacts
+end_time: 1758120915820
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 12b37c369f824c7a896e8f2121f56978
+run_name: blushing-swan-347
+run_uuid: 12b37c369f824c7a896e8f2121f56978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120915766
+status: 3
+tags: []
+user_id: ayush

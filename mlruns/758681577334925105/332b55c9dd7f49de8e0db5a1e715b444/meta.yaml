@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/332b55c9dd7f49de8e0db5a1e715b444/artifacts
+end_time: 1758120915688
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 332b55c9dd7f49de8e0db5a1e715b444
+run_name: colorful-fox-158
+run_uuid: 332b55c9dd7f49de8e0db5a1e715b444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120915640
+status: 3
+tags: []
+user_id: ayush

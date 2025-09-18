@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/df49ccc144fd4362999d8fe1b357a253/artifacts
+end_time: 1758120916001
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: df49ccc144fd4362999d8fe1b357a253
+run_name: enthused-stork-58
+run_uuid: df49ccc144fd4362999d8fe1b357a253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120915954
+status: 3
+tags: []
+user_id: ayush

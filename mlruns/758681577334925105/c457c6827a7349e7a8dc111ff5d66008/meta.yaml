@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/c457c6827a7349e7a8dc111ff5d66008/artifacts
+end_time: 1758161899048
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: c457c6827a7349e7a8dc111ff5d66008
+run_name: aged-lamb-69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161898848
+status: 3
+tags: []
+user_id: ayush

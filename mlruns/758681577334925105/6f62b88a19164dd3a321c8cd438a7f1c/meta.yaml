@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/6f62b88a19164dd3a321c8cd438a7f1c/artifacts
+end_time: 1758161899234
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 6f62b88a19164dd3a321c8cd438a7f1c
+run_name: melodic-stoat-927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161899076
+status: 3
+tags: []
+user_id: ayush

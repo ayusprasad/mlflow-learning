@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/156ca2369c23445788140e4f78abbac0/artifacts
+end_time: 1758120915752
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 156ca2369c23445788140e4f78abbac0
+run_name: aged-mare-840
+run_uuid: 156ca2369c23445788140e4f78abbac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758120915700
+status: 3
+tags: []
+user_id: ayush

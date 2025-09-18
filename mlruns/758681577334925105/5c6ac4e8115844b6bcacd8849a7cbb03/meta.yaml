@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/5c6ac4e8115844b6bcacd8849a7cbb03/artifacts
+end_time: 1758161900380
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 5c6ac4e8115844b6bcacd8849a7cbb03
+run_name: bouncy-vole-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161900242
+status: 3
+tags: []
+user_id: ayush

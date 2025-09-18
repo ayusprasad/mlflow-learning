@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/9b5746f0ca4148b7838440dda6c386ed/artifacts
+end_time: 1758121171444
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 9b5746f0ca4148b7838440dda6c386ed
+run_name: thoughtful-cow-315
+run_uuid: 9b5746f0ca4148b7838440dda6c386ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758121171378
+status: 3
+tags: []
+user_id: ayush

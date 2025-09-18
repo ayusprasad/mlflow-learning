@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/0bd5fb389c644a68ade62527063b24ce/artifacts
+end_time: 1758121171283
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 0bd5fb389c644a68ade62527063b24ce
+run_name: dapper-donkey-798
+run_uuid: 0bd5fb389c644a68ade62527063b24ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758121171228
+status: 3
+tags: []
+user_id: ayush

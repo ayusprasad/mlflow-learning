@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/b9c6f8460c5843508c75ea3986fcce2e/artifacts
+end_time: 1758161899426
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: b9c6f8460c5843508c75ea3986fcce2e
+run_name: caring-ant-264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161899263
+status: 3
+tags: []
+user_id: ayush

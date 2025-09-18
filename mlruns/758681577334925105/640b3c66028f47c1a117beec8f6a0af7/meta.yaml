@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/640b3c66028f47c1a117beec8f6a0af7/artifacts
+end_time: 1758161927872
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 640b3c66028f47c1a117beec8f6a0af7
+run_name: bemused-trout-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161870068
+status: 3
+tags: []
+user_id: ayush

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/cec26ed16dc840bf8e8bbabf40ac53b5/artifacts
+end_time: 1758161899816
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: cec26ed16dc840bf8e8bbabf40ac53b5
+run_name: capable-donkey-162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161899638
+status: 3
+tags: []
+user_id: ayush

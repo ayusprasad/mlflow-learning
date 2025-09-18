@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/1dfc8565029444888f4bc9fc58a5450c/artifacts
+end_time: 1758161900571
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: 1dfc8565029444888f4bc9fc58a5450c
+run_name: grandiose-cow-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758161900402
+status: 3
+tags: []
+user_id: ayush

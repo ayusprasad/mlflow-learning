@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/New%20folder/mlflow-learning/mlruns/758681577334925105/ff0c086962be4fb59389db3826e9199d/artifacts
+end_time: 1758121171085
+entry_point_name: ''
+experiment_id: '758681577334925105'
+lifecycle_stage: active
+run_id: ff0c086962be4fb59389db3826e9199d
+run_name: chill-hawk-508
+run_uuid: ff0c086962be4fb59389db3826e9199d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758121171023
+status: 3
+tags: []
+user_id: ayush
